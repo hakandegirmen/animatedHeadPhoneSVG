@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612.7 558.7">
+  <title>Asset 11</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_8" data-name="Layer 8">
+      <rect width="612.7" height="558.7"/>
+      <g>
+        <g id="Cable_components">
+          <path d="M527.55,358h0a5.23,5.23,0,0,1-5.2-5.2v-8a5.23,5.23,0,0,1,5.2-5.2h0a5.23,5.23,0,0,1,5.2,5.2v8A5.23,5.23,0,0,1,527.55,358Z" fill="#497775"/>
+          <line x1="527.55" y1="485.75" x2="527.55" y2="348.75" fill="none" stroke="#497775" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <path d="M427.47,401.35a23.75,23.75,0,0,0,6-.78,32.09,32.09,0,0,1-10-23.22V262.55a32.09,32.09,0,0,1,10-23.22,23.75,23.75,0,0,0-6-.78,24,24,0,0,0-24,24v114.8A24,24,0,0,0,427.47,401.35Z" fill="#ddf8cc"/>
+          <g>
+            <path d="M465.25,386.75a67.5,67.5,0,1,0,0-135Z" fill="#959a8f"/>
+            <path d="M429.85,377.35V262.55a28.05,28.05,0,0,1,14-24.21,28.05,28.05,0,0,1,14,24.21v114.8a28.05,28.05,0,0,1-14,24.21A28.05,28.05,0,0,1,429.85,377.35Z" fill="#959a8f"/>
+          </g>
+        </g>
+      </g>
+      <path d="M185.51,401.35a23.75,23.75,0,0,1-6-.78,32.09,32.09,0,0,0,10-23.22V262.55a32.09,32.09,0,0,0-10-23.22,23.75,23.75,0,0,1,6-.78,24,24,0,0,1,24,24v114.8A24,24,0,0,1,185.51,401.35Z" fill="#ddf8cc"/>
+      <g>
+        <path d="M147.45,386.75a67.5,67.5,0,0,1,0-135Z" fill="#959a8f"/>
+        <path d="M182.85,377.35V262.55a28.05,28.05,0,0,0-14-24.21,28.05,28.05,0,0,0-14,24.21v114.8a28.05,28.05,0,0,0,14,24.21A28.05,28.05,0,0,0,182.85,377.35Z" fill="#959a8f"/>
+      </g>
+      <path id="strap" d="M306.75,73H306c-98.1.4-178.3,77.7-183.5,174.6a75.51,75.51,0,0,1,25.3-4.3v1c6.7-81.7,75.3-146.1,158.6-146.3,83.3.2,151.8,64.6,158.6,146.3v-1a75.51,75.51,0,0,1,25.3,4.3C485.05,150.65,404.85,73.35,306.75,73Z" fill="#959a8f"/>
+      <g id="extraBoxes">
+        <rect x="377.25" y="319.59" width="12.12" height="12.12" transform="translate(766.62 651.29) rotate(180)" fill="#ddf8cc"/>
+        <rect x="249.79" y="273.55" width="12.12" height="12.12" transform="translate(511.71 559.22) rotate(180)" fill="#ddf8cc"/>
+        <rect x="283.46" y="267.49" width="12.12" height="12.12" transform="translate(579.04 547.1) rotate(180)" fill="#ddf8cc"/>
+        <rect x="383.31" y="251.75" width="12.12" height="12.12" transform="translate(778.74 515.62) rotate(180)" fill="#ddf8cc"/>
+        <rect x="333.95" y="250.53" width="12.12" height="12.12" transform="translate(680.03 513.19) rotate(180)" fill="#ddf8cc"/>
+        <rect x="311.06" y="251.75" width="12.12" height="12.12" transform="translate(634.24 515.62) rotate(180)" fill="#ddf8cc"/>
+        <rect x="289.52" y="251.75" width="12.12" height="12.12" transform="translate(591.16 515.62) rotate(180)" fill="#ddf8cc"/>
+        <rect x="266.63" y="251.75" width="12.12" height="12.12" transform="translate(545.37 515.62) rotate(180)" fill="#ddf8cc"/>
+        <rect x="226.9" y="281.4" width="12.12" height="12.12" transform="translate(465.93 574.93) rotate(180)" fill="#ddf8cc"/>
+        <rect x="249.79" y="251.75" width="12.12" height="12.12" transform="translate(511.71 515.62) rotate(180)" fill="#ddf8cc"/>
+        <rect x="226.9" y="251.75" width="12.12" height="12.12" transform="translate(465.93 515.62) rotate(180)" fill="#ddf8cc"/>
+        <rect x="220.84" y="380.69" width="12.12" height="12.12" transform="translate(453.81 773.5) rotate(180)" fill="#ddf8cc"/>
+        <rect x="340.01" y="380.69" width="12.12" height="12.12" transform="translate(692.15 773.5) rotate(180)" fill="#ddf8cc"/>
+        <rect x="356.84" y="364.4" width="12.12" height="12.12" transform="translate(725.81 740.91) rotate(180)" fill="#ddf8cc"/>
+        <rect x="340.01" y="364.4" width="12.12" height="12.12" transform="translate(692.15 740.91) rotate(180)" fill="#ddf8cc"/>
+        <rect x="311.06" y="380.69" width="12.12" height="12.12" transform="translate(634.24 773.5) rotate(180)" fill="#ddf8cc"/>
+        <rect x="367.62" y="342.69" width="12.12" height="12.12" transform="translate(747.35 697.5) rotate(180)" fill="#ddf8cc"/>
+        <rect x="383.31" y="299.59" width="12.12" height="12.12" transform="translate(778.74 611.29) rotate(180)" fill="#ddf8cc"/>
+        <rect x="260.57" y="380.69" width="12.12" height="12.12" transform="translate(533.25 773.5) rotate(180)" fill="#ddf8cc"/>
+        <rect x="243.73" y="359.56" width="12.12" height="12.12" transform="translate(499.59 731.24) rotate(180)" fill="#ddf8cc"/>
+        <rect x="243.73" y="380.69" width="12.12" height="12.12" transform="translate(499.59 773.5) rotate(180)" fill="#ddf8cc"/>
+        <rect x="220.84" y="358.34" width="12.12" height="12.12" transform="translate(453.81 728.79) rotate(180)" fill="#ddf8cc"/>
+      </g>
+      <g id="mainSign">
+        <rect x="367.62" y="279.61" width="12.12" height="12.12" transform="translate(747.35 571.34) rotate(180)" fill="#ddf8cc"/>
+        <rect x="350.78" y="262.65" width="12.12" height="12.12" transform="translate(713.69 537.43) rotate(180)" fill="#ddf8cc"/>
+        <rect x="350.78" y="279.61" width="12.12" height="12.12" transform="translate(713.69 571.34) rotate(180)" fill="#ddf8cc"/>
+        <rect x="333.95" y="279.61" width="12.12" height="12.12" transform="translate(680.03 571.34) rotate(180)" fill="#ddf8cc"/>
+        <rect x="317.12" y="296.57" width="12.12" height="12.12" transform="translate(646.36 605.26) rotate(180)" fill="#ddf8cc"/>
+        <rect x="333.95" y="296.57" width="12.12" height="12.12" transform="translate(680.03 605.26) rotate(180)" fill="#ddf8cc"/>
+        <rect x="350.78" y="296.57" width="12.12" height="12.12" transform="translate(713.69 605.26) rotate(180)" fill="#ddf8cc"/>
+        <rect x="333.95" y="313.53" width="12.12" height="12.12" transform="translate(680.03 639.17) rotate(180)" fill="#ddf8cc"/>
+        <rect x="300.29" y="313.53" width="12.12" height="12.12" transform="translate(612.7 639.17) rotate(180)" fill="#ddf8cc"/>
+        <rect x="317.12" y="313.53" width="12.12" height="12.12" transform="translate(646.36 639.17) rotate(180)" fill="#ddf8cc"/>
+        <rect x="317.12" y="330.48" width="12.12" height="12.12" transform="translate(646.36 673.09) rotate(180)" fill="#ddf8cc"/>
+        <rect x="300.29" y="330.48" width="12.12" height="12.12" transform="translate(612.7 673.09) rotate(180)" fill="#ddf8cc"/>
+        <rect x="283.46" y="330.48" width="12.12" height="12.12" transform="translate(579.04 673.09) rotate(180)" fill="#ddf8cc"/>
+        <rect x="266.63" y="330.48" width="12.12" height="12.12" transform="translate(545.37 673.09) rotate(180)" fill="#ddf8cc"/>
+        <rect x="249.79" y="330.48" width="12.12" height="12.12" transform="translate(511.71 673.09) rotate(180)" fill="#ddf8cc"/>
+        <rect x="266.63" y="313.53" width="12.12" height="12.12" transform="translate(545.37 639.17) rotate(180)" fill="#ddf8cc"/>
+        <rect x="249.79" y="313.53" width="12.12" height="12.12" transform="translate(511.71 639.17) rotate(180)" fill="#ddf8cc"/>
+        <rect x="249.79" y="296.57" width="12.12" height="12.12" transform="translate(511.71 605.26) rotate(180)" fill="#ddf8cc"/>
+        <rect x="283.46" y="364.4" width="12.12" height="12.12" transform="translate(579.04 740.91) rotate(180)" fill="#ddf8cc"/>
+        <rect x="266.63" y="347.44" width="12.12" height="12.12" transform="translate(545.37 707) rotate(180)" fill="#ddf8cc"/>
+        <rect x="283.46" y="347.44" width="12.12" height="12.12" transform="translate(579.04 707) rotate(180)" fill="#ddf8cc"/>
+        <rect x="300.29" y="347.44" width="12.12" height="12.12" transform="translate(612.7 707) rotate(180)" fill="#ddf8cc"/>
+        <rect x="232.96" y="313.53" width="12.12" height="12.12" transform="translate(478.05 639.17) rotate(180)" fill="#ddf8cc"/>
+      </g>
+    </g>
+  </g>
+</svg>

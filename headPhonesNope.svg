@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612.7 558.7">
+  <title>Asset 9</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_6" data-name="Layer 6">
+      <rect width="612.7" height="558.7"/>
+      <path id="strap" d="M306.75,51.88H306c-98.1.4-178.3,77.7-183.5,174.6a75.51,75.51,0,0,1,25.3-4.3v1c6.7-81.7,75.3-146.1,158.6-146.3,83.3.2,151.8,64.6,158.6,146.3v-1a75.51,75.51,0,0,1,25.3,4.3C485.05,129.58,404.85,52.28,306.75,51.88Z" fill="#959a8f"/>
+      <g>
+        <path d="M185.51,380.28a23.75,23.75,0,0,1-6-.78,32.09,32.09,0,0,0,10-23.22V241.48a32.09,32.09,0,0,0-10-23.22,23.75,23.75,0,0,1,6-.78,24,24,0,0,1,24,24v114.8A24,24,0,0,1,185.51,380.28Z" fill="#fcd6d6"/>
+        <g>
+          <path d="M147.45,365.68a67.5,67.5,0,0,1,0-135Z" fill="#959a8f"/>
+          <path d="M182.85,356.28V241.48a28.05,28.05,0,0,0-14-24.21,28.05,28.05,0,0,0-14,24.21v114.8a28.05,28.05,0,0,0,14,24.21A28.05,28.05,0,0,0,182.85,356.28Z" fill="#959a8f"/>
+        </g>
+      </g>
+      <g>
+        <g id="Cable_components">
+          <path d="M527.55,336.88h0a5.23,5.23,0,0,1-5.2-5.2v-8a5.23,5.23,0,0,1,5.2-5.2h0a5.23,5.23,0,0,1,5.2,5.2v8A5.23,5.23,0,0,1,527.55,336.88Z" fill="#497775"/>
+          <line x1="527.55" y1="464.68" x2="527.55" y2="327.68" fill="none" stroke="#497775" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <path d="M427.47,380.28a23.75,23.75,0,0,0,6-.78,32.09,32.09,0,0,1-10-23.22V241.48a32.09,32.09,0,0,1,10-23.22,23.75,23.75,0,0,0-6-.78,24,24,0,0,0-24,24v114.8A24,24,0,0,0,427.47,380.28Z" fill="#fcd6d6"/>
+          <g>
+            <path d="M465.25,365.68a67.5,67.5,0,0,0,0-135Z" fill="#959a8f"/>
+            <path d="M429.85,356.28V241.48a28.05,28.05,0,0,1,14-24.21,28.05,28.05,0,0,1,14,24.21v114.8a28.05,28.05,0,0,1-14,24.21A28.05,28.05,0,0,1,429.85,356.28Z" fill="#959a8f"/>
+          </g>
+        </g>
+      </g>
+      <g id="check_mark">
+        <rect x="232.96" y="225.36" width="12.12" height="12.12" transform="translate(478.05 462.84) rotate(180)" fill="#fbcccc"/>
+        <rect x="249.79" y="225.36" width="12.12" height="12.12" transform="translate(511.71 462.84) rotate(180)" fill="#fbcccc"/>
+        <rect x="350.78" y="225.36" width="12.12" height="12.12" transform="translate(713.69 462.84) rotate(180)" fill="#fbcccc"/>
+        <rect x="367.62" y="225.36" width="12.12" height="12.12" transform="translate(747.35 462.84) rotate(180)" fill="#fbcccc"/>
+        <rect x="232.96" y="241.59" width="12.12" height="12.12" transform="translate(478.05 495.29) rotate(180)" fill="#fbcccc"/>
+        <rect x="249.79" y="241.59" width="12.12" height="12.12" transform="translate(511.71 495.29) rotate(180)" fill="#fbcccc"/>
+        <rect x="266.63" y="241.59" width="12.12" height="12.12" transform="translate(545.37 495.29) rotate(180)" fill="#fbcccc"/>
+        <rect x="333.95" y="241.59" width="12.12" height="12.12" transform="translate(680.03 495.29) rotate(180)" fill="#fbcccc"/>
+        <rect x="350.78" y="241.59" width="12.12" height="12.12" transform="translate(713.69 495.29) rotate(180)" fill="#fbcccc"/>
+        <rect x="367.62" y="241.59" width="12.12" height="12.12" transform="translate(747.35 495.29) rotate(180)" fill="#fbcccc"/>
+        <rect x="249.79" y="258.54" width="12.12" height="12.12" transform="translate(511.71 529.21) rotate(180)" fill="#fbcccc"/>
+        <rect x="266.63" y="258.54" width="12.12" height="12.12" transform="translate(545.37 529.21) rotate(180)" fill="#fbcccc"/>
+        <rect x="283.46" y="258.54" width="12.12" height="12.12" transform="translate(579.04 529.21) rotate(180)" fill="#fbcccc"/>
+        <rect x="317.12" y="258.54" width="12.12" height="12.12" transform="translate(646.36 529.21) rotate(180)" fill="#fbcccc"/>
+        <rect x="333.95" y="258.54" width="12.12" height="12.12" transform="translate(680.03 529.21) rotate(180)" fill="#fbcccc"/>
+        <rect x="350.78" y="258.54" width="12.12" height="12.12" transform="translate(713.69 529.21) rotate(180)" fill="#fbcccc"/>
+        <rect x="266.63" y="275.5" width="12.12" height="12.12" transform="translate(545.37 563.12) rotate(180)" fill="#fbcccc"/>
+        <rect x="283.46" y="275.5" width="12.12" height="12.12" transform="translate(579.04 563.12) rotate(180)" fill="#fbcccc"/>
+        <rect x="300.29" y="275.5" width="12.12" height="12.12" transform="translate(612.7 563.12) rotate(180)" fill="#fbcccc"/>
+        <rect x="317.12" y="275.5" width="12.12" height="12.12" transform="translate(646.36 563.12) rotate(180)" fill="#fbcccc"/>
+        <rect x="333.95" y="275.5" width="12.12" height="12.12" transform="translate(680.03 563.12) rotate(180)" fill="#fbcccc"/>
+        <rect x="283.46" y="292.46" width="12.12" height="12.12" transform="translate(579.04 597.04) rotate(180)" fill="#fbcccc"/>
+        <rect x="300.29" y="292.46" width="12.12" height="12.12" transform="translate(612.7 597.04) rotate(180)" fill="#fbcccc"/>
+        <rect x="317.12" y="292.46" width="12.12" height="12.12" transform="translate(646.36 597.04) rotate(180)" fill="#fbcccc"/>
+        <rect x="266.63" y="309.41" width="12.12" height="12.12" transform="translate(545.37 630.95) rotate(180)" fill="#fbcccc"/>
+        <rect x="283.46" y="309.41" width="12.12" height="12.12" transform="translate(579.04 630.95) rotate(180)" fill="#fbcccc"/>
+        <rect x="300.29" y="309.41" width="12.12" height="12.12" transform="translate(612.7 630.95) rotate(180)" fill="#fbcccc"/>
+        <rect x="317.12" y="309.41" width="12.12" height="12.12" transform="translate(646.36 630.95) rotate(180)" fill="#fbcccc"/>
+        <rect x="333.95" y="309.41" width="12.12" height="12.12" transform="translate(680.03 630.95) rotate(180)" fill="#fbcccc"/>
+        <rect x="249.79" y="326.37" width="12.12" height="12.12" transform="translate(511.71 664.87) rotate(180)" fill="#fbcccc"/>
+        <rect x="266.63" y="326.37" width="12.12" height="12.12" transform="translate(545.37 664.87) rotate(180)" fill="#fbcccc"/>
+        <rect x="283.46" y="326.37" width="12.12" height="12.12" transform="translate(579.04 664.87) rotate(180)" fill="#fbcccc"/>
+        <rect x="317.12" y="326.37" width="12.12" height="12.12" transform="translate(646.36 664.87) rotate(180)" fill="#fbcccc"/>
+        <rect x="333.95" y="326.37" width="12.12" height="12.12" transform="translate(680.03 664.87) rotate(180)" fill="#fbcccc"/>
+        <rect x="350.78" y="326.37" width="12.12" height="12.12" transform="translate(713.69 664.87) rotate(180)" fill="#fbcccc"/>
+        <rect x="232.96" y="343.33" width="12.12" height="12.12" transform="translate(478.05 698.78) rotate(180)" fill="#fbcccc"/>
+        <rect x="249.79" y="343.33" width="12.12" height="12.12" transform="translate(511.71 698.78) rotate(180)" fill="#fbcccc"/>
+        <rect x="266.63" y="343.33" width="12.12" height="12.12" transform="translate(545.37 698.78) rotate(180)" fill="#fbcccc"/>
+        <rect x="333.95" y="343.33" width="12.12" height="12.12" transform="translate(680.03 698.78) rotate(180)" fill="#fbcccc"/>
+        <rect x="350.78" y="343.33" width="12.12" height="12.12" transform="translate(713.69 698.78) rotate(180)" fill="#fbcccc"/>
+        <rect x="367.62" y="343.33" width="12.12" height="12.12" transform="translate(747.35 698.78) rotate(180)" fill="#fbcccc"/>
+        <rect x="232.96" y="360.29" width="12.12" height="12.12" transform="translate(478.05 732.69) rotate(180)" fill="#fbcccc"/>
+        <rect x="249.79" y="360.29" width="12.12" height="12.12" transform="translate(511.71 732.69) rotate(180)" fill="#fbcccc"/>
+        <rect x="350.78" y="360.29" width="12.12" height="12.12" transform="translate(713.69 732.69) rotate(180)" fill="#fbcccc"/>
+        <rect x="367.62" y="360.29" width="12.12" height="12.12" transform="translate(747.35 732.69) rotate(180)" fill="#fbcccc"/>
+      </g>
+    </g>
+  </g>
+</svg>
